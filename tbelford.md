@@ -1,3 +1,3 @@
-#Insert your name
-#Insert your bio
-#Insert your favorite quote
+#Troy Belford
+#45 year old anthropologist looking for a new career path.
+#ad astra per aspira
